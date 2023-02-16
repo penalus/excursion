@@ -10,8 +10,26 @@ h1 {
     color: white;
 }
 
-.download-link {
+a {
     font-size: 16px;
     color: aquamarine;
     text-decoration: underline;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: grey;
+}
+
+.center {
+    display: block;
+    margin: 25px auto;
 }
